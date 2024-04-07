@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=reactivex" height="40" alt="reactivex logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
